@@ -1,0 +1,19 @@
+{
+  "name": "week05_lab_execrcise05",
+  "version": "1.0.0",
+  "description": "#### Section A: Practical Coding Tasks",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Pritesh Patel - Exercise Lab 05",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
